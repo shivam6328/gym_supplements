@@ -14,6 +14,4 @@ contract Buy{
         return buyers;
     }
 
-    
-
 }
